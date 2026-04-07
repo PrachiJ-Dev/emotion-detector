@@ -1,4 +1,5 @@
-# Emotion Detector Application
+# Final Project: Emotion Detector Application
+This repository is created as part of the Final Project for the course.
 
 This project is an AI-based web application that detects human emotions from text input using IBM Watson NLP.
 
